@@ -30,9 +30,9 @@ I made all steps in this project with Excel and google looker studio in tne foll
    - with the end of year (from august to december ) the sales began to decline until below the average
      - Therefore, **if we want to improve sales during this period**, we should create new offers and discounts to entice the customer and meet his needs especially the youth because they are the largest purchasing group.
     
-    - Most of customers were the women (64%) and they prefered Set,Curta and western drees categories so ws should increase of these products.
+   - Most of customers were the women (64%) and they prefered Set,Curta and western drees categories so ws should increase of these products.
 
-    - The top channels were Amazon, Myntra and Flipkart so, we have to pay more attention to our customers on these channels and study their prefers and requirements .
+  - The top channels were Amazon, Myntra and Flipkart so, we have to pay more attention to our customers on these channels and study their prefers and requirements .
 
 **Conclusion**
 The Sales Dashboard not only streamlined our sales processes but also became a potent tool to remain competitive in a swiftly changing market.
